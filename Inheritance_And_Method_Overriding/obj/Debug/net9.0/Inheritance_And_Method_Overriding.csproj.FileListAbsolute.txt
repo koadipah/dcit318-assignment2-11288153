@@ -1,0 +1,15 @@
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment2-11288153/Inheritance_And_Method_Overriding/bin/Debug/net9.0/Inheritance_And_Method_Overriding
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment2-11288153/Inheritance_And_Method_Overriding/bin/Debug/net9.0/Inheritance_And_Method_Overriding.deps.json
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment2-11288153/Inheritance_And_Method_Overriding/bin/Debug/net9.0/Inheritance_And_Method_Overriding.runtimeconfig.json
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment2-11288153/Inheritance_And_Method_Overriding/bin/Debug/net9.0/Inheritance_And_Method_Overriding.dll
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment2-11288153/Inheritance_And_Method_Overriding/bin/Debug/net9.0/Inheritance_And_Method_Overriding.pdb
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment2-11288153/Inheritance_And_Method_Overriding/obj/Debug/net9.0/Inheritance_And_Method_Overriding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment2-11288153/Inheritance_And_Method_Overriding/obj/Debug/net9.0/Inheritance_And_Method_Overriding.AssemblyInfoInputs.cache
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment2-11288153/Inheritance_And_Method_Overriding/obj/Debug/net9.0/Inheritance_And_Method_Overriding.AssemblyInfo.cs
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment2-11288153/Inheritance_And_Method_Overriding/obj/Debug/net9.0/Inheritance_And_Method_Overriding.csproj.CoreCompileInputs.cache
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment2-11288153/Inheritance_And_Method_Overriding/obj/Debug/net9.0/Inheritance_And_Method_Overriding.sourcelink.json
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment2-11288153/Inheritance_And_Method_Overriding/obj/Debug/net9.0/Inheritance_And_Method_Overriding.dll
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment2-11288153/Inheritance_And_Method_Overriding/obj/Debug/net9.0/refint/Inheritance_And_Method_Overriding.dll
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment2-11288153/Inheritance_And_Method_Overriding/obj/Debug/net9.0/Inheritance_And_Method_Overriding.pdb
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment2-11288153/Inheritance_And_Method_Overriding/obj/Debug/net9.0/Inheritance_And_Method_Overriding.genruntimeconfig.cache
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment2-11288153/Inheritance_And_Method_Overriding/obj/Debug/net9.0/ref/Inheritance_And_Method_Overriding.dll
